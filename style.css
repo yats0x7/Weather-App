@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: linear-gradient(#D6EDFF, #ACD7EC);
+    margin: 0px;
+    padding: 0px;
+
+}
+.hero{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#w_icon{
+    margin: auto;
+    width: 500px;
+    height: 450px;
+}
+#start{
+    margin: auto;
+    padding: 8px;
+    width: 100px;
+    border-radius: 20px;
+    background-color: #8B95C9;
+}
+#title_1{
+    margin: 3%;
+}
+
