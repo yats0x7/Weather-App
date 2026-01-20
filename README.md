@@ -5,7 +5,7 @@ A responsive **multi-city weather dashboard** built using **Vanilla JavaScript**
 ---
 
 ## 🚀 Live Demo
-👉 (Add link after hosting on GitHub Pages)
+👉 https://weather-app-azure-rho-rddq8a9gju.vercel.app/
 
 ---
 
@@ -31,7 +31,5 @@ A responsive **multi-city weather dashboard** built using **Vanilla JavaScript**
 - **JavaScript (ES6)** – Logic & DOM manipulation  
 - **OpenWeatherMap API** – Real-time weather data  
 
----
 
-## 📂 Project Structure
 
