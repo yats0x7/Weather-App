@@ -30,6 +30,10 @@ body{
     border-radius: 20px;
     background-color: #8B95C9;
 }
+#start:hover{
+    cursor: pointer;
+    background-color: #a2a9d1;;
+}
 #title_1{
     margin: 3%;
 }
